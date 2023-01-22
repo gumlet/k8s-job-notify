@@ -38,8 +38,7 @@ Docker images are hosted at [hub.docker/k8s-job-notify](https://hub.docker.com/r
 
 ## Releases
 
-- If you want to use stable releases, please use [github release tags](https://github.com/gumlet/k8s-job-notify/releases). For example, `image: gumlet/k8s-job-notify:1.0`
-- If you wish to use unstable, use `image: gumlet/k8s-job-notify:latest` (triggered whenever push to `master` is made)
+- If you want to use stable releases, please use [github release tags](https://github.com/gumlet/k8s-job-notify/releases). For example, `image: gumlet/k8s-job-notify:1.7`
 
 ## To start using this
 
