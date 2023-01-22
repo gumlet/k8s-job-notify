@@ -5,4 +5,4 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_path = "github.com/sukeesh/k8s-job-notify"
+  import_path = "github.com/gumlet/k8s-job-notify"

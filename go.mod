@@ -1,4 +1,4 @@
-module github.com/sukeesh/k8s-job-notify
+module github.com/gumlet/k8s-job-notify
 
 go 1.12
 

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os/user"
 
-	"github.com/sukeesh/k8s-job-notify/env"
+	"github.com/gumlet/k8s-job-notify/env"
 
 	batchv1 "k8s.io/api/batch/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

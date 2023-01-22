@@ -9,10 +9,10 @@ import (
 	"github.com/jessevdk/go-flags"
 	"go.uber.org/zap"
 
-	"github.com/sukeesh/k8s-job-notify/env"
-	k8s "github.com/sukeesh/k8s-job-notify/kubernetes"
-	"github.com/sukeesh/k8s-job-notify/message"
-	"github.com/sukeesh/k8s-job-notify/slack"
+	"github.com/gumlet/k8s-job-notify/env"
+	k8s "github.com/gumlet/k8s-job-notify/kubernetes"
+	"github.com/gumlet/k8s-job-notify/message"
+	"github.com/gumlet/k8s-job-notify/slack"
 
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 )
