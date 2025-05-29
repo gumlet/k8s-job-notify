@@ -6,7 +6,7 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	go.uber.org/zap v1.13.0
 	k8s.io/api v0.0.0-20191121015604-11707872ac1c
-	k8s.io/apimachinery v0.0.0-20191123233150-4c4803ed55e3
+	k8s.io/apimachinery v0.16.13
 	k8s.io/client-go v0.0.0-20190620085101-78d2af792bab
 )
 
@@ -42,7 +42,7 @@ require (
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.2.4 // indirect
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 	honnef.co/go/tools v0.0.1-2019.2.3 // indirect
 	k8s.io/klog v1.0.0 // indirect
 	k8s.io/utils v0.0.0-20191114200735-6ca3b61696b6 // indirect
