@@ -1,4 +1,4 @@
-FROM golang:alpine as builder
+FROM golang:alpine AS builder
 
 WORKDIR /go/src/github.com/gumlet/k8s-job-notify
 ADD . /go/src/github.com/gumlet/k8s-job-notify
