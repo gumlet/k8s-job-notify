@@ -152,5 +152,5 @@ Please feel free to ⭐️ this repository if this project helped you! 😉
 
 ## 📝 License
 
-Copyright © 2019-2023 Gumlet Pte. Ltd.  
+Copyright © 2019-2025 Gumlet Pte. Ltd.  
 This project is MIT licensed.
