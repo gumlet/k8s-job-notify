@@ -1,0 +1,17 @@
+version: 2
+updates:
+  # 1. Update Dockerfile base images (FROM statements)
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    ignore:
+      - dependency-name: "*"
+        update-types: 
+          - "version-update:semver-major"
+
+  # 2. Update GitHub Actions workflows (.github/workflows/*)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
